@@ -1,6 +1,6 @@
-package homework12;
+package bangcuuchuong;
 
-public class Homework12 {
+public class Bangcuuchuong {
 
     public static void main(String[] args) {
         for(int i=2;i<=9;i++){

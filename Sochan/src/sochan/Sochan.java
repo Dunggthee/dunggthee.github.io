@@ -1,6 +1,6 @@
-package homework11;
+package sochan;
 
-public class Homework11 {
+public class Sochan {
     public static void main(String[] args) {
        
        for (int i = 0; i < 2021; ++i) {
