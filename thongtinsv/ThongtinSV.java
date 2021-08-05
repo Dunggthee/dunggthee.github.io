@@ -1,6 +1,3 @@
-/*
- Thong tin sinh vien
- */
 package thongtinsv;
 
 
